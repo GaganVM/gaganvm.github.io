@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhouhang Xie"
+title                    : "Gagan Mundada"
 title_separator          : "-"
-name                     : &name "Zhouhang Xie"
-description              : &description "an NLPer's personal homepage"
-url                      : https://zhouhanxie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Gagan Mundada"
+description              : &description "Machine Learning Researcher & Graduate Student at UC San Diego"
+url                      : https://gaganmundada.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zhouhanxie/zhouhanxie.github.io"
+repository               : "GaganVM/gaganm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : # "zhx022 [at] ucsd [dot] edu"
-  avatar           : "zhouhang.png"
-  bio              : "ML/NLPer, UCI->UCSD"
-  location         : "La Jolla, CA"
-  employer         :
+  name             : "Gagan Mundada"
+  avatar           : "profile.png"
+  bio              : "MS in Computer Science at UC San Diego | Machine Learning Researcher"
+  location         : "San Diego, CA"
+  employer         : "UC San Diego"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zhx022 [at] ucsd [dot] edu"
+  email            : "gaganvishalmundada@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhouhanxie"
+  github           : "GaganVM"
   google_plus      :
   keybase          :
   instagram        : # "ruaruaruarua"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "gaganmundada"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :

@@ -8,87 +8,84 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a PhD student (2023-) at UC San Diego, working with [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/) on the intersection of NLP and personalization. I'm also broadly interested in language technology for user-facing systems.
+Welcome! I'm a Master's student in Computer Science at UC San Diego (Sep. 2024 – Mar. 2026), working on machine learning and deep learning research. My research interests include vision-language models, music intelligence, conversational AI, and their applications in recommendation systems.
 
-I did my undergraduate study at UC Irvine, where I worked on robustness and interpretability in NLP with [Prof. Sameer Singh](https://sameersingh.org/). 
+I completed my Bachelor of Technology in Electronics Engineering from the Indian Institute of Technology (BHU) Varanasi (Nov. 2020 – Jun. 2024) with a GPA of 3.98/4.00.
 
+## Education
+
+**University of California San Diego**  
+Master of Science in Computer Science (GPA: 3.95/4.00)  
+San Diego, CA | Sep. 2024 – Mar. 2026
+
+**Indian Institute of Technology (BHU) Varanasi**  
+Bachelor of Technology in Electronics Engineering (GPA: 3.98/4.00)  
+Varanasi, UP | Nov. 2020 – Jun. 2024
+
+## Experience
+
+**Machine Learning Intern** | McAuley Lab, UC San Diego  
+San Diego, CA | Mar. 2025 – Present  
+- Authored two music-intelligence benchmarks (**WildScore** - EMNLP 2025 accepted, **MusiCRS** - ICASSP submission in prep, involving **482 audio-query cases**) for evaluating vision/audio reasoning in MLLMs
+- Developed an evaluation framework for LLM-based topic modeling and an AI-Agentic Benchmark, applying GRPO for variational inference
+
+**Machine Learning Intern** | San Diego Supercomputer Center  
+San Diego, CA | Jul. 2025 – Sep. 2025  
+- Developed and optimized automated EEG preprocessing pipelines for **22 NEMAR datasets**, enhancing data quality and processing efficiency using MATLAB and PyTorch
+
+**Machine Learning Intern** | Cosman Lab, UC San Diego  
+San Diego, CA | Oct. 2024 – Jul. 2025  
+- Developed a saliency-guided Vision Transformer codec in PyTorch, achieving **15-20% improvement** in perceptual quality metrics
+- Containerized workflows with Docker/Kubernetes, achieving **50.6% preference rate** in human validation (research findings for CVPR 2026)
+
+**Deep Learning Intern** | INRIA Morpheo  
+Grenoble, France | May 2023 – Jul. 2023  
+- Attained **85% accuracy** in General Movement Assessment
+- Revamped Python pipeline (NumPy, OpenCV, Open3D, PyTorch) for SMIL extraction, reducing processing time by **10%**
+
+## Projects
+
+**PaperPal: AI-Powered Research Assistant**  
+Technologies: Go, Gin, gRPC, FAISS, LangChain, Next.js  
+- Engineered academic QA backend, doubling PDF throughput and cutting latency by **40%**
+- Implemented LangChain RAG agent with **85% top-3 recall** and Next.js frontend
+
+**Insider Threat Detection**  
+Technologies: SeqGAN, LSTM, Multi-Head Attention, PyTorch, PostgreSQL  
+- Enabled proactive insider-threat detection with SeqGAN+PostgreSQL, rebalancing **3 threat classes**
+- Trained LSTM with multi-head attention for sequential classification, achieving **80% accuracy**
 
 <br>
-<h1>Selected publication (<a href="https://scholar.google.com/citations?hl=en&user=NW_2acoAAAAJ">full</a>)</h1>
+<h1>Selected Publications</h1>
 
 <div>
   <p>
-    <a href="https://arxiv.org/abs/2504.07070">A survey on personalized and pluralistic preference alignment in Large Language Models</a><br>
-    <strong>Zhouhang Xie</strong>, Junda Wu, Yiran Shen, Yu Xia, Raghav Jain, Xintong Li, Aaron Chang, Ryan Rossi, Sachin Kumar, Bodhisattwa Prasad Majumder, Jingbo Shang, Prithviraj Ammanabrolu, Julian McAuley <br>
-    COLM 2025 
+    <strong>WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    Under review at ICLR 2026
   </p>
   
   <p>
-    <a href="https://arxiv.org/abs/2504.15477">In-context ranking preference optimization</a><br>
-    Junda Wu<sup>*</sup>, Rohan Surana<sup>*</sup>, <strong>Zhouhang Xie</strong>, Yiran Shen, Yu Xia, Tong Yu, Ryan Rossi, Prithviraj Ammanabrolu, Julian McAuley <br>
-    COLM 2025 
+    <strong>WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    EMNLP 2025 - Main Conference
   </p>
   
   <p>
-    <a href="https://aclanthology.org/2025.naacl-long.554/">Latent Factor Models Meets Instructions: Goal-conditioned Latent Factor Discovery without Task Supervision</a><br>
-    <strong>Zhouhang Xie</strong>, Tushar Khot, Bhavana Dalvi Mishra, Harshit Surana, Julian McAuley, Peter Clark, Bodhisattwa Prasad Majumder <br>
-    NAACL 2025 &lt;<a href="https://github.com/allenai/instructLF">github</a>&gt;
+    <strong>MusiCRS: Benchmarking Music-Centric Conversational Recommendation</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    Under review at IEEE ICASSP
   </p>
-
+  
   <p>
-    <a href="https://arxiv.org/abs/2405.12119">Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation</a><br>
-    Zhankui He, <strong>Zhouhang Xie</strong>, Harald Steck, Dawen Liang, Rahul Jha, Nathan Kallus, Julian McAuley <br>
-    WSDM 2025 &lt;<a href="https://github.com/AaronHeee/Reindex-Then-Adapt">github</a>&gt;
+    <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    IEEE TNSM, 2025
   </p>
-
+  
   <p>
-    <a href="https://arxiv.org/abs/2406.17260">Mitigating Hallucination in Fictional Character Role-Play</a><br>
-    Nafis Sadeq, <strong>Zhouhang Xie</strong>, Byungkyu Kang, Prarit Lamba, Xiang Gao, Julian McAuley <br>
-    EMNLP Findings 2024 &lt;<a href="https://github.com/NafisSadeq/rolefact">github</a>&gt;
-  </p>
-
-  <p>
-    <a href="https://arxiv.org/abs/2403.15737">Few-shot Dialogue Strategy Learning For Motivational Interviewing via Inductive Reasoning</a><br>
-    <strong>Zhouhang Xie</strong>, Bodhisattwa Prasad Majumder, Mengjie Zhao, Yoshinori Maeda, Keiichi Yamada, Hiromi Wakaki, Julian McAuley <br>
-    ACL Findings 2024 &lt;<a href="https://github.com/zhouhanxie/DIIR">github</a>&gt;
-  </p>
-
-  <p>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3640457.3688191">Neighborhood-based Collaborative Filtering for Conversational Recommendation</a><br>
-    <strong>Zhouhang Xie<sup>*</sup></strong>, Junda Wu<sup>*</sup>, Hyunsik Jeon<sup>*</sup>, Zhankui He, Harald Steck, Rahul Jha, Dawen Liang, Nathan Kallus, Julian McAuley <br>
-    RecSys 2024 &lt;<a href="https://github.com/zhouhanxie/neighborhood-based-CF-for-CRS">github</a>&gt;
-  </p>
-
-  <p>
-    <a href="https://arxiv.org/abs/2308.10053">Large Language Models as Zero-shot Conversational Recommenders</a><br>
-    Zhankui He<sup>*</sup>, <strong>Zhouhang Xie<sup>*</sup></strong>, Rahul Jha, Harald Steck, Dawen Liang, Yesu Feng, Bodhisattwa Majumder, Nathan Kallus, Julian McAuley <br>
-    CIKM 2023 &lt;<a href="https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys">github</a>&gt;&lt;<a href="https://huggingface.co/datasets/ZhankuiHe/reddit_cikm">dataset</a>&gt;
-  </p>
-
-  <p>
-    <a href="https://arxiv.org/abs/2209.12613">Factual and Informative Review Generation for Explainable Recommendation</a><br>
-    <strong>Zhouhang Xie</strong>, Sameer Singh, Julian McAuley, and Bodhisattwa Prasad Majumder <br>
-    AAAI 2023 &lt;<a href="https://github.com/zhouhanxie/PRAG">github</a>&gt;
-  </p>
-
-  <p>
-    <a href="https://aclanthology.org/2021.blackboxnlp-1.6/">What Models Know About Their Attackers: Deriving Attacker Information From Latent Representations</a><br>
-    <strong>Zhouhang Xie</strong>, Jonathan Brophy, Adam Noack, Wencong You, Kalyani Asthana, Carter Perkins, Sabrina Reis, Zayd Hammoudeh, Daniel Lowd, and Sameer Singh <br>
-    BlackBoxNLP@EMNLP 2021 &lt;<a href="https://react-nlp.github.io/tcab/">dataset</a>&gt;&lt;<a href="https://github.com/REACT-NLP">github</a>&gt;&lt;<a href="https://arxiv.org/abs/2201.08555">react project</a>&gt;
+    <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    Optics Continuum
   </p>
 </div>
-
-<br>
-<h1>Toolkits</h1>
-
-<div>
-  <p>
-    <a href="https://arxiv.org/abs/2402.15591">RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface</a><br>
-    Zeyuan Zhang<sup>*</sup>, Tanmay Laud<sup>*</sup>, Zihang He<sup>*</sup>, Xiaojie Chen, Xinshuang Liu, <strong>Zhouhang Xie</strong>, Julian McAuley, Zhankui He <br>
-    AAAI 2024 (Demo Track) &lt;<a href="https://github.com/McAuley-Lab/RecWizard">github</a>&gt;
-  </p>
-</div>
-
-
-
-
