@@ -55,37 +55,24 @@ Technologies: SeqGAN, LSTM, Multi-Head Attention, PyTorch, PostgreSQL
 - Enabled proactive insider-threat detection with SeqGAN+PostgreSQL, rebalancing **3 threat classes**
 - Trained LSTM with multi-head attention for sequential classification, achieving **80% accuracy**
 
-<br>
-<h1>Selected Publications</h1>
+## Selected Publications
 
-<div>
-  <p>
-    <strong>WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Under review at ICLR 2026
-  </p>
-  
-  <p>
-    <strong>WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    EMNLP 2025 - Main Conference
-  </p>
-  
-  <p>
-    <strong>MusiCRS: Benchmarking Music-Centric Conversational Recommendation</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Under review at IEEE ICASSP
-  </p>
-  
-  <p>
-    <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    IEEE TNSM, 2025
-  </p>
-  
-  <p>
-    <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Optics Continuum
-  </p>
-</div>
+**WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization**  
+**Gagan Mundada** and co-authors  
+Under review at ICLR 2026
+
+**WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning**  
+**Gagan Mundada** and co-authors  
+EMNLP 2025 - Main Conference
+
+**MusiCRS: Benchmarking Music-Centric Conversational Recommendation**  
+**Gagan Mundada** and co-authors  
+Under review at IEEE ICASSP
+
+**SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks**  
+**Gagan Mundada** and co-authors  
+IEEE TNSM, 2025
+
+**Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification**  
+**Gagan Mundada** and co-authors  
+Optics Continuum
