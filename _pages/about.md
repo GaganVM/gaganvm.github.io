@@ -43,6 +43,53 @@ Grenoble, France | May 2023 – Jul. 2023
 - Attained **85% accuracy** in General Movement Assessment
 - Revamped Python pipeline (NumPy, OpenCV, Open3D, PyTorch) for SMIL extraction, reducing processing time by **10%**
 
+## Selected Publications
+
+<div style="margin-bottom: 2em;">
+  <img src="/gaganm.github.io/images/500x300.png" alt="WS-GRPO" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <p>
+    <strong>WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    Under review at ICLR 2026
+  </p>
+</div>
+
+<div style="margin-bottom: 2em; clear: both;">
+  <img src="/gaganm.github.io/images/500x300.png" alt="WildScore" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <p>
+    <strong>WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    EMNLP 2025 - Main Conference
+  </p>
+</div>
+
+<div style="margin-bottom: 2em; clear: both;">
+  <img src="/gaganm.github.io/images/500x300.png" alt="MusiCRS" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <p>
+    <strong>MusiCRS: Benchmarking Music-Centric Conversational Recommendation</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    Under review at IEEE ICASSP
+  </p>
+</div>
+
+<div style="margin-bottom: 2em; clear: both;">
+  <img src="/gaganm.github.io/images/500x300.png" alt="SINR-Delay" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <p>
+    <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    IEEE TNSM, 2025
+  </p>
+</div>
+
+<div style="margin-bottom: 2em; clear: both;">
+  <img src="/gaganm.github.io/images/500x300.png" alt="Hyperspectral Imaging" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <p>
+    <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong><br>
+    <strong>Gagan Mundada</strong> and co-authors<br>
+    Optics Continuum
+  </p>
+</div>
+
 ## Projects
 
 **PaperPal: AI-Powered Research Assistant**  
@@ -54,25 +101,3 @@ Technologies: Go, Gin, gRPC, FAISS, LangChain, Next.js
 Technologies: SeqGAN, LSTM, Multi-Head Attention, PyTorch, PostgreSQL  
 - Enabled proactive insider-threat detection with SeqGAN+PostgreSQL, rebalancing **3 threat classes**
 - Trained LSTM with multi-head attention for sequential classification, achieving **80% accuracy**
-
-## Selected Publications
-
-**WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization**  
-**Gagan Mundada** and co-authors  
-Under review at ICLR 2026
-
-**WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning**  
-**Gagan Mundada** and co-authors  
-EMNLP 2025 - Main Conference
-
-**MusiCRS: Benchmarking Music-Centric Conversational Recommendation**  
-**Gagan Mundada** and co-authors  
-Under review at IEEE ICASSP
-
-**SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks**  
-**Gagan Mundada** and co-authors  
-IEEE TNSM, 2025
-
-**Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification**  
-**Gagan Mundada** and co-authors  
-Optics Continuum
