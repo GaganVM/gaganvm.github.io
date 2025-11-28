@@ -82,7 +82,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/500x300.png' | prepend: site.baseurl }}" alt="SINR-Delay" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/SINR.png' | prepend: site.baseurl }}" alt="SINR-Delay" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>
@@ -91,7 +91,7 @@ Grenoble, France | May 2023 – Jul. 2023
 </div>
 
 <div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/500x300.png' | prepend: site.baseurl }}" alt="Hyperspectral Imaging" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
+  <img src="{{ '/images/cholangiocarcinoma.png' | prepend: site.baseurl }}" alt="Hyperspectral Imaging" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
   <p>
     <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong><br>
     <strong>Gagan Mundada</strong> and co-authors<br>

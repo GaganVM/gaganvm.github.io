@@ -7,6 +7,8 @@ date: 2025-08-01
 venue: 'IEEE TNSM, 2025'
 paperurl: 
 citation: 'Gagan Mundada et al. (2025). &quot;SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks.&quot; <i>IEEE TNSM</i>. 2025.'
+header:
+  teaser: SINR.png
 ---
 
 This paper presents machine learning frameworks for node localization in Reconfigurable Intelligent Surface (RIS)-assisted time-varying IoT networks, addressing SINR and delay constraints.
