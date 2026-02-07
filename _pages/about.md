@@ -100,7 +100,7 @@ Grenoble, France | May 2023 – Jul. 2023
       <strong>Gagan Mundada</strong> and co-authors
     </p>
     <p class="publication-card__venue">
-      Under review at IEEE ICASSP
+      IEEE ICASSP 2026
     </p>
   </div>
 </div>

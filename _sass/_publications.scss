@@ -66,3 +66,127 @@
     font-size: 0.9em;
   }
 }
+
+/* ==========================================================================
+   PUBLICATION PAGE HEADER
+   ========================================================================== */
+
+.publication-header {
+  margin-top: 1em;
+  margin-bottom: 2em;
+  padding: 1.5em;
+  padding-bottom: 1.5em;
+  background: linear-gradient(to bottom, rgba($info-color, 0.03) 0%, transparent 100%);
+  border-left: 4px solid $info-color;
+  border-radius: $border-radius;
+  border-bottom: 2px solid $border-color;
+}
+
+.publication-authors {
+  font-size: 1.1em;
+  color: $dark-gray;
+  margin-bottom: 0.75em;
+  line-height: 1.6;
+}
+
+.publication-venue {
+  display: flex;
+  align-items: center;
+  gap: 1em;
+  margin-bottom: 1.5em;
+  flex-wrap: wrap;
+}
+
+.venue-badge {
+  display: inline-block;
+  padding: 0.4em 1em;
+  background: linear-gradient(135deg, $info-color 0%, darken($info-color, 10%) 100%);
+  color: #fff;
+  border-radius: $border-radius;
+  font-weight: 600;
+  font-size: 0.95em;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+
+  &:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+}
+
+.publication-year {
+  color: $gray;
+  font-size: 0.95em;
+}
+
+.publication-actions {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  margin-top: 1em;
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.75em 1.5em;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: $border-radius;
+    transition: all 0.2s ease-in-out;
+
+    &--primary {
+      background-color: $info-color;
+      color: #fff;
+      border: 2px solid $info-color;
+
+      &:hover {
+        background-color: darken($info-color, 10%);
+        border-color: darken($info-color, 10%);
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      }
+    }
+
+    &--secondary {
+      background-color: transparent;
+      color: $info-color;
+      border: 2px solid $info-color;
+
+      &:hover {
+        background-color: $info-color;
+        color: #fff;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+      }
+    }
+
+    i {
+      font-size: 1em;
+    }
+  }
+}
+
+
+/* ==========================================================================
+   PUBLICATION LINKS IN ARCHIVE
+   ========================================================================== */
+
+.publication-links {
+  display: flex;
+  gap: 0.75em;
+  margin-top: 1em;
+  flex-wrap: wrap;
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    margin-bottom: 0;
+
+    i {
+      font-size: 0.9em;
+    }
+  }
+}
