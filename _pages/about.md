@@ -45,58 +45,94 @@ Grenoble, France | May 2023 – Jul. 2023
 
 ## Selected Publications
 
-<div style="margin-bottom: 2em;">
-  <img src="{{ '/images/WS_GRPO.png' | prepend: site.baseurl }}" alt="WS-GRPO" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
-  <p>
-    <strong>WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Under review at ICLR 2026
-  </p>
+<div class="publication-card">
+  <img src="{{ '/images/WS_GRPO.png' | prepend: site.baseurl }}" alt="WS-GRPO" class="publication-card__image">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>WS-GRPO: Weakly-Supervised Group-Relative Policy Optimization</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      Under review at ICLR 2026
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/survey.png' | prepend: site.baseurl }}" alt="RLVR Survey" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
-  <p>
-    <strong>From Verifiable Rewards to Policy Learning: A Survey of Reinforcement Learning from Verifiable Rewards</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Under review at EACL
-  </p>
+<div class="publication-card">
+  <img src="{{ '/images/survey.png' | prepend: site.baseurl }}" alt="RLVR Survey" class="publication-card__image">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>From Verifiable Rewards to Policy Learning: A Survey of Reinforcement Learning from Verifiable Rewards</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      Under review at EACL
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/wildscore.png' | prepend: site.baseurl }}" alt="WildScore" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
-  <p>
-    <strong>WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    EMNLP 2025 - Main Conference
-  </p>
+<div class="publication-card">
+  <img src="{{ '/images/wildscore.png' | prepend: site.baseurl }}" alt="WildScore" class="publication-card__image">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      EMNLP 2025 - Main Conference
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/musiccrs.png' | prepend: site.baseurl }}" alt="MusiCRS" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
-  <p>
-    <strong>MusiCRS: Benchmarking Music-Centric Conversational Recommendation</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Under review at IEEE ICASSP
-  </p>
+<div class="publication-card">
+  <img src="{{ '/images/musiccrs.png' | prepend: site.baseurl }}" alt="MusiCRS" class="publication-card__image">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>MusiCRS: Benchmarking Music-Centric Conversational Recommendation</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      Under review at IEEE ICASSP
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/SINR.png' | prepend: site.baseurl }}" alt="SINR-Delay" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
-  <p>
-    <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    IEEE TNSM, 2025
-  </p>
+<div class="publication-card">
+  <img src="{{ '/images/SINR.png' | prepend: site.baseurl }}" alt="SINR-Delay" class="publication-card__image">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>SINR-Delay Constrained Node Localization in RIS-Assisted Time-Varying IoT Networks Using ML Frameworks</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      IEEE TNSM, 2025
+    </p>
+  </div>
 </div>
 
-<div style="margin-bottom: 2em; clear: both;">
-  <img src="{{ '/images/cholangiocarcinoma.png' | prepend: site.baseurl }}" alt="Hyperspectral Imaging" style="float: left; margin-right: 1em; margin-bottom: 0.5em; width: 200px; height: auto;">
-  <p>
-    <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong><br>
-    <strong>Gagan Mundada</strong> and co-authors<br>
-    Optics Continuum
-  </p>
+<div class="publication-card">
+  <img src="{{ '/images/cholangiocarcinoma.png' | prepend: site.baseurl }}" alt="Hyperspectral Imaging" class="publication-card__image">
+  <div class="publication-card__content">
+    <p class="publication-card__title">
+      <strong>Deep learning-based hyperspectral microscopic imaging for cholangiocarcinoma detection and classification</strong>
+    </p>
+    <p class="publication-card__authors">
+      <strong>Gagan Mundada</strong> and co-authors
+    </p>
+    <p class="publication-card__venue">
+      Optics Continuum
+    </p>
+  </div>
 </div>
 
 ## Projects

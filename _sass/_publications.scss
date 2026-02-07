@@ -1,0 +1,68 @@
+/* ==========================================================================
+   PUBLICATION CARDS
+   ========================================================================== */
+
+.publication-card {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 2.5em;
+  padding-bottom: 2em;
+  border-bottom: 1px solid $border-color;
+  clear: both;
+  overflow: hidden;
+
+  @include breakpoint(max-width $medium) {
+    flex-direction: column;
+  }
+
+  &:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+
+  &__image {
+    flex-shrink: 0;
+    width: 200px;
+    height: auto;
+    margin-right: 1.5em;
+    margin-bottom: 1em;
+    border-radius: $border-radius;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+
+    @include breakpoint(max-width $medium) {
+      width: 100%;
+      max-width: 300px;
+      margin-right: 0;
+      margin-bottom: 1em;
+    }
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+
+  &__content {
+    flex: 1;
+    min-width: 0; // Prevents flex item from overflowing
+  }
+
+  &__title {
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    line-height: 1.4;
+  }
+
+  &__authors {
+    margin-bottom: 0.5em;
+    color: $gray;
+    font-size: 0.95em;
+  }
+
+  &__venue {
+    color: $gray;
+    font-style: italic;
+    font-size: 0.9em;
+  }
+}
