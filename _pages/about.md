@@ -26,7 +26,7 @@ Varanasi, UP | Nov. 2020 – Jun. 2024
 
 **Machine Learning Intern** | McAuley Lab, UC San Diego  
 San Diego, CA | Mar. 2025 – Present  
-- Authored two music-intelligence benchmarks (**WildScore** - EMNLP 2025 accepted, **MusiCRS** - ICASSP submission in prep, involving **482 audio-query cases**) for evaluating vision/audio reasoning in MLLMs
+- Authored two music-intelligence benchmarks (**WildScore** - EMNLP 2025 accepted, **MusiCRS** - ICASSP 2026 accepted, involving **482 audio-query cases**) for evaluating vision/audio reasoning in MLLMs
 - Developed an evaluation framework for LLM-based topic modeling and an AI-Agentic Benchmark, applying GRPO for variational inference
 
 **Machine Learning Intern** | San Diego Supercomputer Center  
@@ -55,7 +55,7 @@ Grenoble, France | May 2023 – Jul. 2023
       <strong>Gagan Mundada</strong> and co-authors
     </p>
     <p class="publication-card__venue">
-      Under review at ICLR 2026
+      Under review at ICML
     </p>
   </div>
 </div>
@@ -70,7 +70,7 @@ Grenoble, France | May 2023 – Jul. 2023
       <strong>Gagan Mundada</strong> and co-authors
     </p>
     <p class="publication-card__venue">
-      Under review at EACL
+      Under review at ACL
     </p>
   </div>
 </div>
