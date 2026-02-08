@@ -57,11 +57,6 @@ Grenoble, France | May 2023 – Jul. 2023
     <p class="publication-card__venue">
       Under review at ICML
     </p>
-    <div class="publication-card__actions">
-      <a href="/publication/2026-01-01-ws-grpo" class="btn btn--inverse btn--small">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Details
-      </a>
-    </div>
   </div>
 </div>
 
@@ -77,11 +72,6 @@ Grenoble, France | May 2023 – Jul. 2023
     <p class="publication-card__venue">
       Under review at ACL
     </p>
-    <div class="publication-card__actions">
-      <a href="/publications/" class="btn btn--inverse btn--small">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Details
-      </a>
-    </div>
   </div>
 </div>
 
@@ -99,10 +89,7 @@ Grenoble, France | May 2023 – Jul. 2023
     </p>
     <div class="publication-card__actions">
       <a href="https://aclanthology.org/2025.emnlp-main.853/" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-file-pdf" aria-hidden="true"></i> View Paper
-      </a>
-      <a href="/publication/2025-10-01-wildscore" class="btn btn--inverse btn--small">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Details
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> View PDF
       </a>
     </div>
   </div>
@@ -122,10 +109,7 @@ Grenoble, France | May 2023 – Jul. 2023
     </p>
     <div class="publication-card__actions">
       <a href="https://arxiv.org/abs/2509.19469" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-file-pdf" aria-hidden="true"></i> View Paper
-      </a>
-      <a href="/publication/2025-09-01-musicrs" class="btn btn--inverse btn--small">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Details
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> View PDF
       </a>
     </div>
   </div>
@@ -145,10 +129,7 @@ Grenoble, France | May 2023 – Jul. 2023
     </p>
     <div class="publication-card__actions">
       <a href="https://ieeexplore.ieee.org/abstract/document/10877934/" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-file-pdf" aria-hidden="true"></i> View Paper
-      </a>
-      <a href="/publication/2025-08-01-sinr-delay" class="btn btn--inverse btn--small">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Details
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> View PDF
       </a>
     </div>
   </div>
@@ -168,10 +149,7 @@ Grenoble, France | May 2023 – Jul. 2023
     </p>
     <div class="publication-card__actions">
       <a href="https://opg.optica.org/optcon/fulltext.cfm?uri=optcon-3-8-1311" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
-        <i class="fas fa-file-pdf" aria-hidden="true"></i> View Paper
-      </a>
-      <a href="/publication/2024-06-01-hyperspectral-imaging" class="btn btn--inverse btn--small">
-        <i class="fas fa-info-circle" aria-hidden="true"></i> Details
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> View PDF
       </a>
     </div>
   </div>
