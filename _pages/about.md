@@ -22,7 +22,7 @@ San Diego, CA | Sep. 2024 – Mar. 2026
 Bachelor of Technology in Electronics Engineering (GPA: 3.98/4.00)  
 Varanasi, UP | Nov. 2020 – Jun. 2024
 
-## Experience
+## Overview
 
 **Machine Learning Intern** | McAuley Lab, UC San Diego | Mar. 2025 – Present
 
