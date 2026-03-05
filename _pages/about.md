@@ -46,6 +46,11 @@ Varanasi, UP | Nov. 2020 – Jun. 2024
     <p class="publication-card__venue">
       Under review at ICML
     </p>
+    <div class="publication-card__actions">
+      <a href="https://arxiv.org/abs/2602.17025" class="btn btn--primary btn--small" target="_blank" rel="noopener noreferrer">
+        <i class="fas fa-file-pdf" aria-hidden="true"></i> View PDF
+      </a>
+    </div>
   </div>
 </div>
 
