@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm a Master's student in Computer Science at UC San Diego (Sep. 2024 – Mar. 2026), working on machine learning and deep learning research. My research interests include vision-language models, music intelligence, conversational AI, and their applications in recommendation systems.
+Welcome! I'm a Master's student in Computer Science at UC San Diego (Sep. 2024 – Jun. 2026), working on machine learning and deep learning research. My research interests include vision-language models, music intelligence, conversational AI, and their applications in recommendation systems.
 
 I completed my Bachelor of Technology in Electronics Engineering from the Indian Institute of Technology (BHU) Varanasi (Nov. 2020 – Jun. 2024) with a GPA of 3.98/4.00.
 
@@ -16,7 +16,7 @@ I completed my Bachelor of Technology in Electronics Engineering from the Indian
 
 **University of California San Diego**  
 Master of Science in Computer Science (GPA: 3.95/4.00)  
-San Diego, CA | Sep. 2024 – Mar. 2026
+San Diego, CA | Sep. 2024 – Jun. 2026
 
 **Indian Institute of Technology (BHU) Varanasi**  
 Bachelor of Technology in Electronics Engineering (GPA: 3.98/4.00)  
